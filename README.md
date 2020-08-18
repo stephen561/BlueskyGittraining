@@ -1,2 +1,2 @@
-# BlueskyGittraining
- This is a training for Bluesky citadel
+# BlueSkyGittraining
+ This is a training for Bluesky
